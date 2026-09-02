@@ -1,6 +1,6 @@
 # References
 
-*Last updated on 24 August 2026*
+*Last updated 24 August 2026*
 
 **NME8i**:
 Numerical Methods for Engineers

@@ -9,7 +9,5 @@ https://github.com/christian-cahig/CVE154_AY-2026-2027-S1.
 """
 
 
-
-# Do not remove this and the following lines
 if __name__ == "__main__":
-    print(__AUTHOR__)
+    

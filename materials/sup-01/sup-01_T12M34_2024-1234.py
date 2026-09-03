@@ -23,7 +23,6 @@ def calc_surface_area(radius, length, end_faces = True):
     # One-line alternative:
     # return lateral_area + (2 * endface_area) if end_faces else lateral_area
 
-# Do not remove this and the following lines
 if __name__ == "__main__":
     print(__AUTHOR__)
 

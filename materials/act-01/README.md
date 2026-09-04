@@ -2,5 +2,7 @@
 
 *Last updated 04 September 2026*
 
-Go to the instructional notebook,
+See the task description in the instructional notebook,
 [`act-01.ipynb`](./act-01.ipynb).
+The template script is
+[`act-01.py`](./act-01.py).
